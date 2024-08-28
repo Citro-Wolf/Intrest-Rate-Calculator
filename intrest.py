@@ -6,4 +6,4 @@ interest_rate_after = 5
 # Below is the code for the calculation, I wouldnt mess with it if you didnt know what youre doing. :)
 print("The interest rate goes up by", starting_point * interest_rate,"every year.")
 print("The interest gained in",interest_rate_after,"Years is,",starting_point * interest_rate * interest_rate_after)
-# Made by Brian Griffin as of 28/08/2024 
+# Made by Citro-Wolf as of 28/08/2024 
